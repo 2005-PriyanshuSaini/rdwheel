@@ -3,7 +3,7 @@
 A classy, full-screen React app to randomly select an option from a list you provide. Enter your options as a numbered list or one per line, and let the animated spinner pick for you!
 
 # Hosted
-https://rdwheel.vercel.app/[Link}
+https://rdwheel.vercel.app/
 
 ## Features
 
